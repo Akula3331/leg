@@ -22,7 +22,7 @@
 .wrap{
     background-color: #272727;
 background-image: url('../icon/image\ 1.svg');
-background-repeat: no-repeat;
+/* background-repeat: no-repeat; */
 background-attachment: fixed;
 background-size: cover;
 height: auto;
@@ -43,6 +43,7 @@ background-image: url('../icon/qw.svg');
 background-repeat: no-repeat;
 background-size: cover;
 background-attachment: fixed;
+
 height: auto;
 padding: 50px 0;
 }
