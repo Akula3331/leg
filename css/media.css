@@ -1,0 +1,77 @@
+@media screen and (max-width:1150px){
+    .item{
+        height: auto;
+    }
+}
+@media screen and (max-width:960px) {
+    #h1{
+        font-size: 52px;
+    }
+}
+@media screen and (max-width:767px){
+    .maks{
+        width: 420px;
+        padding:40px 20px;
+        gap: 30px;
+    }
+    .maks img{
+        height: 150px;
+    }
+}
+@media screen and (max-width:576px){
+    #h1{
+        font-size: 32px;
+    }
+    .h1{
+        font-size: 32px;
+    }
+    .title{
+        font-size: 24px;
+        margin-bottom: 30px;
+    }
+    .abrams{
+        width: 290px;
+        height: 290px;
+    }
+    .command-con{
+        margin-top: 50px;
+    }
+    .maks{
+        width: 320px;
+        padding:30px 20px;
+        gap: 20px;
+    }
+    .maks img{
+        height: 120px;
+    }
+    .item{
+        font-size: 26px;
+    }
+    .maks-har p{
+        font-size: 18px;
+    }
+    #abrams{
+        width: 200px;
+        height: 200px;
+    }
+}
+@media screen and (max-width:412px){
+    .maks{
+        width: 280px;
+        padding:30px 20px;
+        gap: 10px;
+    }
+    h3{
+        font-size: 24px;
+    }
+    .maks img{
+        height: 100px;
+    }
+    .item{
+        font-size: 22px;
+    }
+    .item-con{
+        margin-top: 30px;
+    }
+
+}

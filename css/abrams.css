@@ -1,0 +1,132 @@
+@font-face {
+    font-family: 'tit';
+    src: url('../fonts/DaysOne-Regular.ttf');
+}
+@font-face {
+    font-family: 'can';
+    src: url('../fonts/Caveat-VariableFont_wght.ttf');
+}
+@font-face {
+    font-family: 'titt';
+    src: url('../fonts/BlackOpsOne-Regular.ttf');
+}
+@font-face {
+    font-family: 'op';
+    src: url('../fonts/Neucha-Regular.ttf');
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wrap{
+    background-color: #272727;
+background-image: url('../icon/image\ 1.svg');
+background-repeat: no-repeat;
+background-size: cover;
+height: auto;
+padding: 50px 0;
+}
+.wrap1{
+    background-color: #272727;
+background-image: url('../icon/111.svg');
+background-repeat: no-repeat;
+background-size: cover;
+height: auto;
+padding: 50px 0;
+}
+.wrap2{
+    background-color: #272727;
+background-image: url('../icon/qw.svg');
+background-repeat: no-repeat;
+background-size: cover;
+height: auto;
+padding: 50px 0;
+}
+.wrap1{
+    background-color: #272727;
+background-image: url('../icon/111.svg');
+background-repeat: no-repeat;
+background-size: cover;
+height: auto;
+padding: 50px 0;
+}
+#abrams{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    
+}
+.con{
+    display: flex;
+
+    justify-content: center;
+}
+.maks{
+    width: 500px;
+    height: auto;
+    background-color:  #272727;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+    padding: 40px;
+    font-family: 'op';
+}
+.maks img{
+    width: auto;
+    height: 180px;
+}
+h1{
+    font-size: 36px;
+    text-align: center;
+    margin-top:20px ;
+    font-family: 'tit';
+    color: #FFE400; 
+
+}
+h3{
+    font-size: 28px;
+    font-family: 'titt';
+    color: #FFE400;
+    text-align: center;
+}
+.item{
+    font-family: 'can';
+    font-size: 36px;
+    width: auto;
+    height: 100px;
+    color: #6B6E70;
+    text-align: center;
+}
+.maks-har{
+    height: 180px;
+}
+.maks-har p{
+    color: #fff;
+font-size: 24px;
+margin-top: 10px;
+width: 100%;
+text-align: center;
+}
+.item-con{
+    display: flex;
+    flex-direction: column;
+align-items: center;
+gap: 50px;
+margin: 50px 0;
+padding: 0 50px;
+}
+.con1{
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.con2{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
