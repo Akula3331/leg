@@ -23,6 +23,7 @@
     background-color: #272727;
 background-image: url('../icon/image\ 1.svg');
 background-repeat: no-repeat;
+background-attachment: fixed;
 background-size: cover;
 height: auto;
 padding: 50px 0;
@@ -32,6 +33,7 @@ padding: 50px 0;
 background-image: url('../icon/111.svg');
 background-repeat: no-repeat;
 background-size: cover;
+background-attachment: fixed;
 height: auto;
 padding: 50px 0;
 }
@@ -40,17 +42,11 @@ padding: 50px 0;
 background-image: url('../icon/qw.svg');
 background-repeat: no-repeat;
 background-size: cover;
+background-attachment: fixed;
 height: auto;
 padding: 50px 0;
 }
-.wrap1{
-    background-color: #272727;
-background-image: url('../icon/111.svg');
-background-repeat: no-repeat;
-background-size: cover;
-height: auto;
-padding: 50px 0;
-}
+
 #abrams{
     width: 250px;
     height: 250px;
