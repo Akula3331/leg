@@ -63,3 +63,30 @@ h1{
 .title3{
     color: #FF652F;
 }
+#h12{
+    text-align: center;
+    margin-top: 50px;
+}
+.kv-com{
+    margin: 50px 0;
+    display: flex;
+    justify-content: center;
+}
+.kv-com img{
+    width: 800px;
+    height: 800px;
+border-radius: 20px;
+border: 1px solid gray;
+}
+.kv{
+    width: 400px;
+    height: 200px;
+}
+.wrappp{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+background-image: url("../img/kv-bg.jfif");
+background-size: cover;
+}
